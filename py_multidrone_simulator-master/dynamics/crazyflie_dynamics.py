@@ -6,7 +6,7 @@ Created on Thu Apr  8 16:07:03 2021
 @author: mees
 """
 
-
+#kunnen jullie dit zien? Groetjes Olivier
 
 import numpy as np
 
