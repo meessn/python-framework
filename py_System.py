@@ -11,6 +11,7 @@ import gc
 
 "Kleine Hai uhhm uhhm Grosse HAi zhu zhu zhu zhu zhu"
 "HAAAAAI"
+"Hoi"
 # Problem setup for basic mav collision avoidance
 # Used for generating FORCES PRO solvers and control node of the mav
 # Define system physical parameters, problem dimensions and indexing here
